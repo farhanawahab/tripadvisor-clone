@@ -1,7 +1,9 @@
 **TripAdvisor Clone Website**
+
 This is a simple TripAdvisor clone built with HTML and CSS. The website includes features such as advanced CSS techniques like positioning, hover effects, transition property, flexbox, flex items and media queries to ensure responsiveness across devices.
 
 **Features:**
+
 **HTML & CSS:** Basic structure of the website using semantic HTML and styling with CSS.
 
 **Responsive Design:** Built using media queries to ensure the website looks great on different screen sizes (desktop, tablet, and mobile).
@@ -15,11 +17,17 @@ This is a simple TripAdvisor clone built with HTML and CSS. The website includes
 **CSS Transitions:** Smooth transitions applied for enhanced visual appeal.
 
 **Technologies Used:**
+
 -- HTML5
+
 -- CSS3
+
      -Flexbox and Flex items
+     
      -Media Queries
-     -CSS Transition property 
+     
+     -CSS Transition property
+     
      -Hover Effects
 
 Feel free to fork the repository and make contributions. If you have suggestions for improvements or new features, feel free to create an issue or submit a pull request.
