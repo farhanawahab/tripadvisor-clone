@@ -3,10 +3,15 @@ This is a simple TripAdvisor clone built with HTML and CSS. The website includes
 
 **Features:**
 **HTML & CSS:** Basic structure of the website using semantic HTML and styling with CSS.
+
 **Responsive Design:** Built using media queries to ensure the website looks great on different screen sizes (desktop, tablet, and mobile).
+
 **CSS Positioning:** Various layout designs and elements positioned using relative, absolute, and fixed positioning.
+
 **Flexbox:** Used for flexible and responsive layouts, making the design adaptable.
+
 **Hover Effects:** Interactive hover effects added to buttons, links, and images for a more dynamic user experience.
+
 **CSS Transitions:** Smooth transitions applied for enhanced visual appeal.
 
 **Technologies Used:**
