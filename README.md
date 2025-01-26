@@ -1,6 +1,6 @@
-# TripAdvisor Clone Website
+# Tripadvisor Clone Website
 
-This is a simple TripAdvisor clone built with HTML and CSS. The website includes features such as advanced CSS techniques like positioning, hover effects, transitions, flexbox, flex items and media queries to ensure responsiveness across devices.
+This is a simple Tripadvisor clone built with HTML and CSS. The website includes features such as advanced CSS techniques like positioning, hover effects, transitions, flexbox, flex items and media queries to ensure responsiveness across devices.
 
 ## Features:
 
